@@ -1,0 +1,59 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "ThaiCamera.apk"
+  ],
+  "treeExpansions": [
+    [
+      "Resources",
+      "ThaiCamera.apk"
+    ],
+    [
+      "Source code",
+      "ThaiCamera.apk"
+    ],
+    [
+      "com",
+      "Source code",
+      "ThaiCamera.apk"
+    ],
+    [
+      "cp",
+      "com",
+      "Source code",
+      "ThaiCamera.apk"
+    ],
+    [
+      "camera",
+      "cp",
+      "com",
+      "Source code",
+      "ThaiCamera.apk"
+    ],
+    [
+      "com.cp.camera.Loading",
+      "camera",
+      "cp",
+      "com",
+      "Source code",
+      "ThaiCamera.apk"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "com.cp.camera.Loading",
+      "subPath": "java",
+      "caret": 7730,
+      "view": {
+        "x": 0,
+        "y": 2838
+      }
+    }
+  ],
+  "activeTab": 0
+}

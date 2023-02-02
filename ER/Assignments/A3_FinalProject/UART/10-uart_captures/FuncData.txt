@@ -1,0 +1,11 @@
+Taxa de amostragem para o PulseView: 1MHz
+Determinar:
+Baud rate
+Nº de bits
+Paridade (se existir)
+Período (taxa de amostragem do sinal)
+Reconstruir sinal
+Determinar frequência
+
+
+
